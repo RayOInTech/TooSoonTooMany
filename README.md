@@ -1,7 +1,8 @@
 # TooSoonTooMany
-This is my website that I created for a personal project.
 I created this with the common web development frameworks and languages such as
 HTML, CSS, JavaScript, and JQuery. 
+This is my website that I created for a personal project.
+
 The link to access a proper video demonstration for this project are listed below:
 
 Part 1: https://www.youtube.com/watch?v=22J1dRLUQfI&t=114s 
