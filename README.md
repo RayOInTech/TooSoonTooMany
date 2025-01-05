@@ -11,6 +11,8 @@ Part 2: https://www.youtube.com/watch?v=pADhGOzHqBk
 I developed this website with the common boostrap development framework. This project included the following languages of
 HTML, CSS, JavaScript, and JQuery. Using the text editors of Sublime Text and Brackets, this was hosted with a web hosting platform.
 
+All style elements are within the assets folder in the Multi-SCOhtml folder.
+
 Let me know what you think!
 
 Stay blessed!
